@@ -58,6 +58,7 @@ npm start
 Once both backend and frontend servers are running, you can access the application in your web browser at http://localhost:3000.
 
  -Incase your localhost:3000 not able to communicate with localhost:5000 [website not working properly]
+ 
  -use https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/ Extention [Firefox]
 
 
