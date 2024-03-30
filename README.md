@@ -62,11 +62,11 @@ Once both backend and frontend servers are running, you can access the applicati
  -use https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/ Extention [Firefox]
 
 
-Contributing
+##Contributing
 
 We welcome contributions from the community! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
-License
+##License
 
 https://github.com/yashGoyal40/Docker-Desktop. This README.md provides clear instructions for users to install and run your application, as well as guidelines for contributing and information about the project.
 
