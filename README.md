@@ -23,7 +23,7 @@ To use this application, follow these steps:
 Install Dependencies:
 Install dependencies for both the frontend (React) and backend (Flask):
 ```Ubuntu
-Install Nodejs by refring the official documentation
+#Install Nodejs by refring the official documentation
 sudo apt-get install python3 
 sudo apt-get update
 sudo apt-get install python-flask
@@ -31,7 +31,7 @@ sudo apt-get install python-flask
 npm install
 ```
 ```Arch
-Install Nodejs by refring the official documentation
+#Install Nodejs by refring the official documentation
 sudo pacman -Su python3
 sudo pacman -S python-flask
 #inside the repo directory
